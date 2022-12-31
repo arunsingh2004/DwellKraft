@@ -1,0 +1,17 @@
+.feedback{
+      padding: 3rem;
+      margin: 5rem;
+  background-color: azure;
+}
+.blog{
+
+      margin: 2rem;
+      padding: 1rem;
+      display: flex;
+}
+.b1 , .b2{
+      flex: 1;
+      border: 2px solid rgb(62, 53, 53);
+    padding: 1rem;
+    margin: 1rem;
+}

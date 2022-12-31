@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Kannada:wght@300;500;700&family=Poppins:wght@400;500;600;700&display=swap');
+
+body{
+  margin :0;
+  font-family: 'Anek Kannada', sans-serif;
+font-family: 'Poppins', sans-serif;
+transition: all 3ms ease;
+ color: black;
+ scroll-behavior: smooth;
+}

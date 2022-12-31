@@ -1,0 +1,54 @@
+.container{
+      padding: 1rem;
+      margin: 5px;
+      display: flex;
+}
+
+.left{
+      text-align: center;
+      flex:0.8;
+      margin-top: 6rem;
+}
+.right{
+    padding-left: 4rem;
+    margin: 1rem;
+}
+.form{
+      padding: 1rem;
+      margin: 2rem;
+      text-align: center;
+      background-color: rgb(201, 194, 194);
+}
+.input{
+
+      padding: 1rem;
+     width:auto;
+     border-radius: 5px;
+}
+.email{
+      padding: 1rem;
+   width: auto;
+}
+.phone{
+      padding: 1rem;
+   width: auto;
+}
+.msg{
+      padding: 1rem;
+   width: auto;
+}
+.btn{
+    
+     
+      width: 7rem;
+      height: 2rem;
+      font-weight: 600;
+      margin-left: 3rem;
+      border-radius: 1px;
+      border: 2px solid red;
+}
+.btn:hover{
+            
+      background-color: rgb(238, 151, 151);
+      border-radius: 1rem;
+}

@@ -1,0 +1,50 @@
+.container{
+      padding:1rem;
+      display:flex;
+}
+.logo{
+      display: flex;
+      align-items: center;
+      /* width: 2.5rem; */
+      height:2.5rem;
+      flex:1;
+      gap: 1rem;
+}
+.logo>span{
+      color: red;
+      font-size: 20px;
+      font-weight: 600;
+}
+ .right{
+      display:flex;
+      gap:2rem;
+      align-items: center;
+      justify-content: center;
+ }  
+ .menu{
+      display: flex;
+      gap: 3rem;
+      font-weight:500;
+      list-style: none;
+ } 
+ .menu>li:hover{
+      color:red;
+      border-bottom: 1px solid red;
+      cursor:pointer;
+
+ }  
+ .getQuote{
+      width: 8rem;
+      height: 3rem;
+      font-weight: 600;
+      margin-left: 3rem;
+      border-radius: 1px;
+      border: 2px solid red;
+      
+ }
+ .getQuote:hover{
+      background-color: rgb(238, 151, 151);
+      border-radius: 1rem;
+ }
+
+

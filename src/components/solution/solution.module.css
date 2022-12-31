@@ -1,0 +1,35 @@
+.container{
+            margin: 3rem;
+            padding:1rem;
+            text-align: center;
+            background-color: rgb(243, 247, 247);
+            
+}
+h1{
+      color:red;
+}
+
+.items{
+      display:inline-flex;
+      border: none;
+      /* border:2px solid red; */
+      margin: 3rem;
+      padding: 3rem;
+      border-radius: 10px;
+      width:3rem;
+      height: 2.5rem;
+ }
+ .items:hover{
+      border:1px solid red;
+      background-color: rgb(207, 185, 185);
+ }
+ ul{
+      list-style: none;
+ }
+ .btn{
+     padding: 1rem;
+ }
+ .btn:hover{
+     background-color: rgb(217, 125, 125);
+     border-radius: 5px;
+ }

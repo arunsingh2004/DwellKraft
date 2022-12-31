@@ -1,0 +1,60 @@
+
+.container{
+      
+      margin: 5rem;
+      padding:1rem;
+      text-align: center;
+      background-color: rgb(243, 247, 247);
+  
+}
+.btn{
+      width: 7rem;
+      height: 3rem;
+      font-weight: 600;
+      margin-left: 3rem;
+      border-radius: 1px;
+      border: 2px solid red;
+      
+ }
+ .btn:hover{
+      background-color: rgb(238, 151, 151);
+      border-radius: 1rem;
+ }
+ .conatiner1{
+      margin: 5rem;
+      padding:1rem;
+      text-align: center;
+      background-color: rgb(243, 247, 247);
+ }
+ .conatiner2{
+     
+      display: inline-flex;
+      gap: 10rem;
+     
+ }
+ .items{
+      border:2px solid red;
+      padding: 1.5rem;
+      border-radius: 10px;
+      width:6rem;
+      height: 5rem;
+      
+ }
+ .h1{
+      text-align: center;
+ }
+ .span{
+      color: red;
+ }
+ h2{
+      text-align: center;
+     color: red;  
+ }
+ .h2
+ .conatiner3{
+      text-align: center;
+      display: inline-flex;
+      gap: 10rem;
+      
+
+ }

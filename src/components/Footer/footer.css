@@ -1,0 +1,58 @@
+.footer{
+      padding: 1rem;
+      background-color: azure;
+}
+.fmain{
+      text-align: center;
+}
+.fbtn:hover{
+      border-radius: 5px;
+      background-color: rgb(229, 114, 114);
+}
+.fright{
+      padding-left: 79rem;
+}
+
+.flogo{
+      display: flex;
+      align-items: center;
+      /* width: 2.5rem; */
+      height:2.5rem;
+      flex:1;
+      gap: 1rem;
+}
+.fcontainer{
+      display: flex;
+      background-color: azure;
+      justify-content: space-around;
+}
+.flogo{
+     display: flex; 
+     align-items: center;
+      flex:1;
+      gap: 1rem; 
+}
+.fmenu{
+  display: flex;
+  gap: 3rem;
+      font-weight:500;
+      list-style: none;
+
+}
+.fright1{
+      display:flex;
+      gap:2rem;
+      align-items: center;
+      justify-content: center;
+}
+.fmenu>li:hover{
+      color:red;
+      border-bottom: 1px solid red;
+      cursor:pointer;
+
+ } 
+ .copyRight{
+      text-align: center;
+      font-size: small;
+ } 
+
